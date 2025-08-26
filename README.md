@@ -53,7 +53,7 @@ Simples, direto e no estilo retrô 🎨
 
 ```bash
 
-https://github.com/joao-enrique/procurador-receitas.git
+https://github.com/joao-enrique/procurar-receitas.git
 
 ```
 
